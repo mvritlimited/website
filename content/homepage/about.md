@@ -6,4 +6,4 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Organizations of all sizes and industries recognize the great potential for data, but most find it exceedingly difficult to transform that data into business value. We at MVR IT are changing the way organizations see data.
