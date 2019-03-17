@@ -1,12 +1,12 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+title: 'Consulting'
+date: 2018-11-28T15:14:54+10:00
+icon: 'services/service-icon-5.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+heroHeading: 'Consulting'
+heroSubHeading: 'Saving for your valuable time'
+heroBackground: 'services/service1.jpg'
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
