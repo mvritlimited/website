@@ -12,7 +12,7 @@ theme = "hugo-hero-theme"
     meta_og_title = "MVR IT Limited"
     meta_og_type = "website"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
-    meta_og_description = "Hero is a multipurpose Hugo theme with fullscreen hero images and page sections. It contains content types for a business or portfolio site."
+    meta_og_description = "MVR IT Limited"
     meta_twitter_card = "summary"
 
 [[menu.main]]
