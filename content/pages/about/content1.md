@@ -7,4 +7,4 @@ button: ''
 
 ## No Limits
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+While Big Data has quickly evolved into an essential asset for modern day organizations, the escalating demand for Big Data insights requires an entirely new approach to data architecture, tools and practices.  It’s becoming increasingly common for organizations to rely on considerable amounts of structured and unstructured data.  Data from external sources can provide insight and add necessary value to make sound business decisions, but it can become difficult to harness and analyze this information while maintaining that data’s confidentiality using traditional database management tools and processing applications.  That’s where we come in. 
