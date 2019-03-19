@@ -21,37 +21,23 @@ MVR IT has earned the trust of customers from all around the globe, ranging from
 - Azure
 - Digital Ocean
 
-
+Below is the process we follow to 
 ## Data Ingestion
-
-Data ingestion is the process of bringing data from source to data lake. The quality of your data corresponds with the quality of your ingestion process, as it can lead to cumbersome analysis downstream, jeopardizing the value of your data altogether. When your ingestion is working well, your data arrives in the lake on time, with the right fidelity, and ready for further analytic use. We use Sqoop, Flume and Kafka tools to ingest the data to data lake. We are experienced in both batch & real time ingestion.
 
 
 ## Data Enrichment
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+
 
 
 ## Data Curation
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+
 
 ## Data Curation
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+
 
 ## Visual Analytics
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+
 
