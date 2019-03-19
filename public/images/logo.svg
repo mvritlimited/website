@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="41px" height="13px" viewBox="0 0 41 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="51px" height="16px" viewBox="0 0 51 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
     <title>HOME</title>
     <desc>Created with Sketch.</desc>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Helvetica-Light, Helvetica" font-size="14" font-weight="300" letter-spacing="-0.116666675">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" font-family="Helvetica-Light, Helvetica" font-size="18" font-weight="300" letter-spacing="-0.150000006">
         <text id="HOME" stroke="#3322E5" fill="#1C3ED3">
-            <tspan x="0" y="12">HOME</tspan>
+            <tspan x="-1" y="15">HOME</tspan>
         </text>
     </g>
 </svg>
